@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/mycache/mycache.iml" filepath="$PROJECT_DIR$/mycache/mycache.iml" />
       <module fileurl="file://$PROJECT_DIR$/mycontact/mycontact.iml" filepath="$PROJECT_DIR$/mycontact/mycontact.iml" />
       <module fileurl="file://$PROJECT_DIR$/myfilemanager/myfilemanager.iml" filepath="$PROJECT_DIR$/myfilemanager/myfilemanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymediacontent/mymediacontent.iml" filepath="$PROJECT_DIR$/mymediacontent/mymediacontent.iml" />
       <module fileurl="file://$PROJECT_DIR$/mysdcard/mysdcard.iml" filepath="$PROJECT_DIR$/mysdcard/mysdcard.iml" />
       <module fileurl="file://$PROJECT_DIR$/mysharedpreference/mysharedpreference.iml" filepath="$PROJECT_DIR$/mysharedpreference/mysharedpreference.iml" />
       <module fileurl="file://$PROJECT_DIR$/mysqlitetest/mysqlitetest.iml" filepath="$PROJECT_DIR$/mysqlitetest/mysqlitetest.iml" />

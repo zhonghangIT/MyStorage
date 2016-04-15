@@ -1,1 +1,1 @@
-include ':app','mycache','mysharedpreference','mycontact','mysqlitetest','mysdcard','myfilemanager'
+include ':app','mycache','mysharedpreference','mycontact','mysqlitetest','mysdcard','myfilemanager','mymediacontent'
