@@ -1,0 +1,1 @@
+include ':app','mycache','mysharedpreference','mycontact','mysqlitetest','mysdcard','myfilemanager'
